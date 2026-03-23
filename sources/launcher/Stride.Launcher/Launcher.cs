@@ -32,7 +32,7 @@ namespace Stride.LauncherApp
         internal static FileLock Mutex;
         internal static MetricsClient Metrics;
 
-        public const string ApplicationName = "Stride Launcher";
+        public const string ApplicationName = "Fluxion Launcher";
 
         /// <summary>
         /// The entry point function of the launcher.
